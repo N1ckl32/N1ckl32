@@ -1,4 +1,7 @@
+<!--
 ### Hi 👋
+-->
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255" width="30"/> Hi.</h2>
 
 <!--
 **dropslzx/dropslzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
