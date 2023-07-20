@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on 大项目
 - 🌱 I’m currently learning everything
 - ⚡ Fun fact: work
+
+![](https://raw.githubusercontent.com/N1ckl32/N1ckl32/main/grid-snake-dark.svg)
